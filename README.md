@@ -52,7 +52,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![RocketMQ](https://img.shields.io/badge/RocketMQ-C12229?style=flat-square&logo=apache%20rocketmq&logoColor=white)](https://rocketmq.apache.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://redis.io/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://www.mongodb.com/pressroom)
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
@@ -63,7 +63,6 @@
 
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=Claude&logoColor=white)](https://claude.ai/)
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=flat-square&logo=DeepSeek&logoColor=white)](https://www.deepseek.com)
-[![Google Gemini](https://img.shields.io/badge/Google Gemini-8E75B2?style=flat-square&logo=Google Gemini&logoColor=white)](https://gemini.google.com)
 
 <!-- 外层 div：控制整体的上下间距 -->
 

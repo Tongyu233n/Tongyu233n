@@ -16,7 +16,7 @@
 ### 🏫 ChangChun University of  Technology | Artificial Intelligence | Class Of 2026
 
 <!-- 右侧像素小人 -->
-<img align="right" src="https://count.getloli.com/@Tynoo?theme=booru-lewd&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Tongyu233n" width="600"/>
+<img align="right" src="https://count.getloli.com/@Tynoo?theme=booru-lewd&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Tongyu233n" width="400"/>
 
 ### 🌱 Internship Experience
 - `Secret`

@@ -43,34 +43,30 @@
 
 
 
-<br><br>
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+<br><br>[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://python.langchain.com/)
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![RocketMQ](https://img.shields.io/badge/RocketMQ-C12229?style=flat-square&logo=apache%20rocketmq&logoColor=white)](https://rocketmq.apache.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://redis.io/)
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-[![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)](https://min.io/)
-[![Canal](https://img.shields.io/badge/Canal-1E88E5?style=flat-square&logo=apache&logoColor=white)](https://github.com/alibaba/canal)
-[![Nacos](https://img.shields.io/badge/Nacos-1C8EED?style=flat-square&logo=alibaba-cloud&logoColor=white)](https://nacos.io/)
 
-
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 
-
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=Claude&logoColor=white)](https://claude.ai/)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=flat-square&logo=DeepSeek&logoColor=white)](https://www.deepseek.com)
+[![Google Gemini](https://img.shields.io/badge/Google Gemini-8E75B2?style=flat-square&logo=Google Gemini&logoColor=white)](https://gemini.google.com)
 
 <!-- 外层 div：控制整体的上下间距 -->
+
 <div style="margin: 10px 0">  
   <!-- 第一个链接：邮箱跳转 -->
   <a href="mailto:1102042053@qq.com">  
